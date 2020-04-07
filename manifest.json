@@ -2,7 +2,7 @@
     "files_list":[
         {
             "function_name":"test_func2",
-            "funtion_file_path":"test_func2.py"
+            "function_file_path":"test_faas/test_func2.py"
 
         }
     ]
