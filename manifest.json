@@ -1,9 +1,8 @@
 {
-    "files_list":[
-        {
-            "function_name":"test_func2",
-            "function_file_path":"test_faas/test_func2.py"
-
-        }
+    "files_list": [
+      {
+        "function_name": "test_func2",
+        "function_file_path": "test_faas/test_func2.py"
+      }
     ]
 }
